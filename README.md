@@ -1,5 +1,5 @@
 # DB_Assignment_2
-Database assignment 2 done by i210450 &amp; i210419
+Overview of the queries in the project:
 
 Q3  
 ![Q3](https://user-images.githubusercontent.com/129294873/228567722-80e61489-9f48-44d1-b339-2644fd63e509.png)  
